@@ -65,6 +65,7 @@ a {
 .title-shop {
   position: relative;
   margin: 0 2.5rem;
+  cursor: pointer;
 }
 .title-shop::after {
   content: "";
