@@ -198,6 +198,7 @@ a {
 .card__preci--now {
   font-size: var(--h3-font-size);
   font-weight: bold;
+  margin-right: 50px;
 }
 
 .card:hover {
