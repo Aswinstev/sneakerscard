@@ -157,6 +157,7 @@ a {
   padding: 3rem 0;
   transition: 0.5s;
   mix-blend-mode: darken;
+  padding-left: 15px;
 }
 .card__name {
   position: absolute;
